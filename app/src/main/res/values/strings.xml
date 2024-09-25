@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gestión de Colecciones</string>
+    <string name="perfil">Perfil</string>
+    <string name="santiago_romero_barrios">Santiago Romero Barrios</string>
+    <string name="edad_21">21 años</string>
+    <string name="profesion_estudiante">Estudiante</string>
+    <string name="ciudad_bogota_dc">Bogotá, DC</string>
+</resources>
