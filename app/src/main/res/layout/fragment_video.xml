@@ -5,14 +5,14 @@
     android:padding="16dp">
 
     <!-- VideoView para reproducir el video -->
+
+    <!-- Botón de Reproducir -->
     <VideoView
         android:id="@+id/video_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp" />
 
-    <!-- Botón de Reproducir -->
     <Button
         android:id="@+id/play_button"
         android:layout_width="wrap_content"

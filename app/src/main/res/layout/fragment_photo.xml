@@ -11,30 +11,29 @@
     <!-- Imagen 1 -->
 
     <ImageView
-        android:id="@+id/image3"
+        android:id="@+id/image1"
         android:layout_width="match_parent"
         android:layout_height="172dp"
         android:layout_marginBottom="16dp"
         android:contentDescription="Image 1"
-        android:src="@drawable/image1"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
-
-    <ImageView
-        android:id="@+id/image1"
-        android:layout_width="300dp"
-        android:layout_height="163dp"
-        android:layout_marginBottom="16dp"
-        android:contentDescription="Image 1"
-        android:src="@drawable/image1"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+        android:src="@drawable/image1" />
 
     <!-- Imagen 2 -->
     <ImageView
         android:id="@+id/image2"
         android:layout_width="300dp"
+        android:layout_height="163dp"
+        android:layout_marginBottom="16dp"
+        android:contentDescription="Image2"
+        android:src="@drawable/image2" />
+
+    <!-- Imagen 3 -->
+    <ImageView
+        android:id="@+id/image3"
+        android:layout_width="300dp"
         android:layout_height="208dp"
-        android:contentDescription="Image 2"
-        android:src="@drawable/image2"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+        android:contentDescription="Image3"
+        android:src="@drawable/image3" />
+
 
 </LinearLayout>

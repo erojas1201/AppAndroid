@@ -22,27 +22,30 @@
         android:layout_marginBottom="16dp" />
 
         <!-- Nombre -->
+
+        <!-- Ocupación -->
+
+        <!-- Información de contacto -->
+
         <TextView
             android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:gravity="center"
             android:text="Edgar Rojas"
             android:textSize="24sp"
-            android:textStyle="bold"
-            android:gravity="center"
-            android:layout_marginBottom="8dp" />
+            android:textStyle="bold" />
 
-        <!-- Ocupación -->
         <TextView
             android:id="@+id/occupation"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Android Developer"
-            android:textSize="18sp"
+            android:layout_marginBottom="24dp"
             android:gravity="center"
-            android:layout_marginBottom="24dp" />
+            android:text="Android Developer"
+            android:textSize="18sp" />
 
-        <!-- Información de contacto -->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
