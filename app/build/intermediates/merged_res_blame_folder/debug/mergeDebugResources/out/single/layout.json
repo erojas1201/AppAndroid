@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\fragment_buttons.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\fragment_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\switch_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\switch_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\fragment_web.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\fragment_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\fragment_video.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\content_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.proyecto.app-mergeDebugResources-47:/layout/fragment_profile.xml",
+        "source": "com.example.proyecto.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-mergeDebugResources-47:\\layout\\fragment_photo.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.example.proyecto.app-main-50:\\layout\\fragment_photo.xml"
+    }
+]
