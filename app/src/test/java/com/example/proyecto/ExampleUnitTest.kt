@@ -1,4 +1,4 @@
-package com.gestiondecolecciones
+package com.example.proyecto
 
 import org.junit.Test
 
