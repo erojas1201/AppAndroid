@@ -1,44 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp">
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
 
     <!-- VideoView para reproducir el video -->
-
-    <!-- Botón de Reproducir -->
     <VideoView
         android:id="@+id/video_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp" />
+        android:layout_marginBottom="16dp"
+        android:layout_alignParentTop="true" />
 
-    <Button
-        android:id="@+id/play_button"
-        android:layout_width="wrap_content"
+    <!-- Contenedor para los botones -->
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Reproducir"
-        android:layout_below="@id/video_view"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginBottom="16dp">
 
-    <!-- Botón de Pausar -->
-    <Button
-        android:id="@+id/pause_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Pausar"
-        android:layout_below="@id/video_view"
-        android:layout_toEndOf="@id/play_button"
-        android:layout_marginStart="16dp" />
+        <!-- Botón de Reproducir -->
+        <Button
+            android:id="@+id/play_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reproducir" />
 
-    <!-- Botón de Detener -->
-    <Button
-        android:id="@+id/stop_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Detener"
-        android:layout_below="@id/video_view"
-        android:layout_toEndOf="@id/pause_button"
-        android:layout_marginStart="16dp" />
+        <!-- Botón de Pausar -->
+        <Button
+            android:id="@+id/pause_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pausar"
+            android:layout_marginStart="16dp" />
+
+        <!-- Botón de Detener -->
+        <Button
+            android:id="@+id/stop_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Detener"
+            android:layout_marginStart="16dp" />
+    </LinearLayout>
 
 </RelativeLayout>

@@ -25,5 +25,6 @@
             android:id="@+id/nav_buttons"
             android:icon="@android:drawable/radiobutton_off_background"
             android:title="@string/menu_buttons" />
+
     </group>
 </menu>
